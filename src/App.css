@@ -32,3 +32,45 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  width: 100px;
+  float: left;
+  font-size: 200%;
+  color: #fff;
+}
+
+.ant-layout-header {
+  padding: 0 25px;
+}
+
+.gutter-box {
+  background: #00A0E9;
+  padding: 100px 0;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.ant-layout-footer {
+  background: #001529;
+  padding: 2px 50px;
+  font-size: 14px;
+}
